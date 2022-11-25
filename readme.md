@@ -14,4 +14,4 @@ If the problem proceeds contact me.<br>
 
 **NOTE**: I have included a requirments.txt do use your own depending on the time of download.<br>
 
-<h2> Made by <b>Mithun RP</b></h2>
+<h2> Made by <b>Manojgowda</b></h2>
